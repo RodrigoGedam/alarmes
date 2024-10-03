@@ -133,3 +133,4 @@ D:\Arquivos\VSCommunity Projects\AlarmesApplication.Test\obj\Debug\net8.0\refint
 D:\Arquivos\VSCommunity Projects\AlarmesApplication.Test\obj\Debug\net8.0\AlarmesApplication.Test.pdb
 D:\Arquivos\VSCommunity Projects\AlarmesApplication.Test\obj\Debug\net8.0\AlarmesApplication.Test.genruntimeconfig.cache
 D:\Arquivos\VSCommunity Projects\AlarmesApplication.Test\obj\Debug\net8.0\ref\AlarmesApplication.Test.dll
+D:\Arquivos\VSCommunity Projects\AlarmesApplication.Test\obj\Debug\net8.0\AlarmesApplication.Test.sourcelink.json

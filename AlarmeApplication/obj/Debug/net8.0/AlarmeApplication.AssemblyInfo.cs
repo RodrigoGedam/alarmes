@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlarmeApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35ad32e527a1728e4b885ff4590559810c83e994")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db3964a20fd75722f7668f391cc631d7096a41a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlarmeApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlarmeApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
